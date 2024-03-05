@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/konda/static/css/main.ff02f4b5.css",
+    "main.js": "/konda/static/js/main.cfd66d11.js",
+    "static/js/592.729c14fc.chunk.js": "/konda/static/js/592.729c14fc.chunk.js",
+    "static/media/Sreenath.jpg": "/konda/static/media/Sreenath.b2fdea440609e534c1df.jpg",
+    "index.html": "/konda/index.html",
+    "main.ff02f4b5.css.map": "/konda/static/css/main.ff02f4b5.css.map",
+    "main.cfd66d11.js.map": "/konda/static/js/main.cfd66d11.js.map",
+    "592.729c14fc.chunk.js.map": "/konda/static/js/592.729c14fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.cfd66d11.js"
+  ]
+}
